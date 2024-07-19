@@ -1,10 +1,10 @@
-# healthcare
+# Healthcare
 A HealthCare Management System
 
-🤖 Introduction
+🤖 Introduction\
 A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
 
-⚙️ Tech Stack
+⚙️ Tech Stack\
 Next.js
 Appwrite
 Typescript
@@ -12,7 +12,7 @@ TailwindCSS
 ShadCN
 Twilio
 
-🔋 Features
+🔋 Features\
 👉 Register as a Patient: Users can sign up and create a personal profile as a patient.
 
 👉 Book a New Appointment with Doctor: Patients can schedule appointments with doctors at their convenience and can book multiple appointments.
