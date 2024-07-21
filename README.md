@@ -11,7 +11,7 @@ Appwrite\
 Typescript\
 TailwindCSS\
 Shad CN\
-Appwrite
+Appwrite\
 Twilio
 
 🔋 Features\
